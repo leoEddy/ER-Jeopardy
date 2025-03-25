@@ -1,0 +1,154 @@
+{
+    "categories": [
+      {
+        "name": "SAINT PATRICK",
+        "questions": [
+          {
+            "value": 100,
+            "question": "ST. PATRICK WAS BORN HERE, NOT IRELAND, AROUND THE 4TH CENTURY.",
+            "answer": "WHAT IS BRITAIN?"
+          },
+          {
+            "value": 200,
+            "question": "THESE REPTILES HAVE NEVER BEEN FOUND IN IRISH FOSSIL RECORDS SO THERE WAS NO NEED FOR ST. PATRICK TO BANISH THEM.",
+            "answer": "WHAT ARE SNAKES?"
+          },
+          {
+            "value": 300,
+            "question": "SHE IS IRELAND'S ONLY FEMALE PATRON SAINT.",
+            "answer": "WHO IS SAINT BRIGID?"
+          },
+          {
+            "value": 400,
+            "question": "ST. PATRICK USED THIS PLANT AS A SYMBOL OF THE HOLY TRINITY.",
+            "answer": "WHAT IS THE SHAMROCK?"
+          },
+          {
+            "value": 500,
+            "question": "THE FIRST ST. PATRICK'S DAY PARADE WAS HELD IN THIS US STATE ON MARCH 17, 1601.",
+            "answer": "WHAT IS FLORIDA?"
+          }
+        ]
+      },
+      {
+        "name": "HISTORY",
+        "questions": [
+          {
+            "value": 100,
+            "question": "AN UNESCO WORLD HERITAGE SITE, THIS STRUCTURE IS OLDER THAT THE GREAT PYRAMID OF GIZA.",
+            "answer": "WHAT IS NEWGRANGE?"
+          },
+          {
+            "value": 200,
+            "question": "DURING THIS HOLIDAY AN UPRISING OCCURRED IN 1916.",
+            "answer": "WHAT IS EASTER?"
+          },
+          {
+            "value": 300,
+            "question": "IRELAND CALLED IT THE EMERGENCY, THE REST OF THE WORLD CALLED IT THIS.",
+            "answer": "WHAT IS WORLD WAR II?"
+          },
+          {
+            "value": 400,
+            "question": "HAILED AS THE LIBERATOR, HE FAILED IN THE END TO ESTABLISH AN IRISH PARLIAMNET.",
+            "answer": "WHO WAS DANIEL O'CONNELL?"
+          },
+          {
+            "value": 500,
+            "question": "IT WAS NOT UNTIL THIS YEAR THAT IRELAND WAS FORMALLY DECLARED A REPUBLIC.",
+            "answer": "WHAT IS 1949?"
+          }
+        ]
+      },
+      {
+        "name": "MUSIC",
+        "questions": [
+          {
+            "value": 100,
+            "question": "THIS MUSICAL INSTRUMENT IS THE OFFICIAL EMBLEM OF IRELAND. IT IS ALSO ON A CAN OF GUINNESS.",
+            "answer": "WHAT IS A HARP?"
+          },
+          {
+            "value": 200,
+            "question": "THIS BAND IS THE BEST SELLING IRISH ACT OF ALL TIME WITH OVER 170 MILLION RECORDS SOLD.",
+            "answer": "WHO IS \"U2\"?"
+          },
+          {
+            "value": 300,
+            "question": "THE CRANBERRIES RELEASED THIS SONG IN 1994, IT IS ABOUT THE TROUBLES, NOT BRAIN EATERS.",
+            "answer": "WHAT IS \"ZOMBIE\"?"
+          },
+          {
+            "value": 400,
+            "question": "AS ONE OF THE EXPONENTS OF BLUE-EYED-SOUL, HE WAS THE LEAD SINGER OF \"THEM\" IN THE 60'S BEFORE GOING SOLO.",
+            "answer": "WHO IS VAN MORRISON?"
+          },
+          {
+            "value": 500,
+            "question": "THIS TRADITIONAL IRISH FOLK BAND FORMED IN DUBLIN IN 1962. THEY WOULD GO ON TO POPULARISE IRISH MUSIC THROUGH OUT THE WORLD.",
+            "answer": "WHO ARE THE \"CHIEFTAINS\"?"
+          }
+        ]
+      },
+      {
+        "name": "MOVIES",
+        "questions": [
+          {
+            "value": 100,
+            "question": "THIS MOVIE ABOUT AN ARTIST WITH CEREBRAL PALSY WON DANIEL DAY-LEWIS AN OSCAR FOR BEST ACTOR.",
+            "answer": "WHAT IS \"MY LEFT FOOT\"?"
+          },
+          {
+            "value": 200,
+            "question": "THIS MUSICAL, ABOUT A BUSKER AND AN IMMIGRANT DURING A WEEK IN DUBLIN WAS A SLEEPER HIT IN 2007. THE SONGS WERE BOTH COMPOSED AND PERFORMED BY THE TWO LEAD ACTORS.",
+            "answer": "WHAT IS \"ONCE\"?"
+          },
+          {
+            "value": 300,
+            "question": "\"THE QUIET MAN\" WAS DIRICTOR JOHN FORD'S HOMAGE TO HIS IRISH HOMELAND. IT STARRED MANY IRISH CHARACTOR ACTORS AND THIS LEAD ACTOR WHO'S GREAT-GREAT-GRANDFATHER WAS BORN IN IRELAND.",
+            "answer": "WHO IS JOHN WAYNE?"
+          },
+          {
+            "value": 400,
+            "question": "THIS MOVIE ABOUT IRA MEMEMBER BOBBY SANDS TAKES ITS NAME BY THIS TYPE OF STRIKE.",
+            "answer": "WHAT IS \"HUNGER\"?"
+          },
+          {
+            "value": 500,
+            "question": "THIS FILM, ABOUT A TINY IRISH VILLAGE TRYING TO CLAIM THE WINNINGS OF THE IRISH NATIONAL LOTTERY, WAS ACTUALY FILMED ON THE ISLE OF MAN.",
+            "answer": "WHAT IS \"WAKING NED (DEVINE)\"?"
+          }
+        ]
+      },
+      {
+        "name": "LITERATURE",
+        "questions": [
+          {
+            "value": 100,
+            "question": "IN HIS ESSAY \"A MODEST PROPOSAL\", THIS ANGLO-IRISH WRITER SUGGESTED SELLING BABIES AS FOOD TO SOLVE IRELAND'S POVERTY.",
+            "answer": "WHO IS JONATHAN SWIFT?"
+          },
+          {
+            "value": 200,
+            "question": "THIS POET AND DRAMATIST BECAME THE FIRST IRISH NOBEL LAUREATE IN LITERATURE WHEN HE WON IN 1923.",
+            "answer": "WHO IS W. B. YEATS?"
+          },
+          {
+            "value": 300,
+            "question": "PLAYWRIGHT SAMUAL BECKET, SAID THIS ABOUT THE TITLE CHARACTOR OF THIS PLAY - \"I DON'T KNOW WHO HE IS. I DON'T EVEN KNOW IF EXISTS\".",
+            "answer": "WHAT IS \"WAITING FOR GODOT\"?"
+          },
+          {
+            "value": 400,
+            "question": "THIS PLAY HAD A SUCCESFFUL OPENING NIGHT IN LONDON IN 1895. BUT CLOSED DOWN AFTER ONLY 86 PERFORMANCES WHEN ITS ANGLO-IRISH AUTHOR WAS CONVICTED OF GROSS INDECENCY.",
+            "answer": "WHAT IS \"THE IMPORTANCE OF BEING EARNEST\"?"
+          },
+          {
+            "value": 500,
+            "question": "THIS NOVEL IS SET IN DUBLIN ON JUNE 16, 1904. THE DATE IS NOW CELEBRATED AROUND THE WORLD AS BLOOMSDAY.",
+            "answer": "WHAT IS \"ULYSSES\"?"
+          }
+        ]
+      }
+    ]
+  }

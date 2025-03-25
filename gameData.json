@@ -1,0 +1,154 @@
+{
+    "categories": [
+      {
+        "name": "MAIN AGREEMENT",
+        "questions": [
+          {
+            "value": 100,
+            "question": "THIS ARTICLE DEALS WITH BULLYING BETWEEN PEERS OR MISUSE OF MANAGERIAL AUTHORITY.",
+            "answer": "WHAT IS ARTICLE 1.10?"
+          },
+          {
+            "value": 200,
+            "question": "AUXILIARY EMPLOYEES WHO HAVE COMPLETED 90 CONSECUTIVE DAYS OF EMPLOYMENT SHALL BE ENTITLED TO THIS MANY DAYS OF PAID ILLINESS LEAVE.",
+            "answer": "WHAT IS FIVE DAYS?"
+          },
+          {
+            "value": 300,
+            "question": "THIS ARTICLE ACKNOWLEDGES THAT THE MANAGEMENT AND DIRECTING OF EMPLOYEES IS RETAINED BY THE EMPLOYER.",
+            "answer": "WHAT IS ARTICLE 6?"
+          },
+          {
+            "value": 400,
+            "question": "THE LATEST MAIN AGREEMENT IS THE SAME NUMBER AS THE AMOUNT OF NERVOUS BREAKDOWNS IN A ROLLING STONE SONG.",
+            "answer": "WHAT IS THE 19TH MAIN PUBLIC SERVICE AGREEMENT?"
+          },
+          {
+            "value": 500,
+            "question": "ARTICLE 8.3 - LIMITS TO PRESENT INTIAL GRIEVANCE, STATES AN EMPLOYEE MUST PRESENT A GRIEVANCE NO LATER THAN THIS.",
+            "answer": "WHAT IS 30 DAYS?"
+          }
+        ]
+      },
+      {
+        "name": "RS&W COMPONENT",
+        "questions": [
+          {
+            "value": 100,
+            "question": "ACCORDING TO ARTICLE 8.1 THIS IS THE MINIMUM REGULAR HOURS A REGULAR PART TIME EMPLOYEE MUST BE SCHEDULED PER WEEK.",
+            "answer": "WHAT IS 17.5 HOURS?"
+          },
+          {
+            "value": 200,
+            "question": "SUBJECT TO SECTION (A) OF ARTICLE 13.1, SECTION (B) SAYS THESE SHALL BE THE CLOTHING ISSUED TO REGULAR EMPLOYEES AND AUXILIARIES WHO HAVE WORKED 1827 HOURS IN A 15 MONTH PERIOD.",
+            "answer": "WHAT IS 3 SHIRTS/BLOUSES, 2 PAIR OF PANTS, 1 CARDIGAN, 1 BELT?"
+          },
+          {
+            "value": 300,
+            "question": "ARTICLE 4.3 (C) WHERE A CUSTOMER COMPLAINT AGAINST A STAFF MEMBER IS NOT RESOLVED, THE EMPLOYER AGREES NOT TO TAKE PUNITIVE ACTION AGAINST AN EMPLOYEE AS A RESULT OF THIS KIND OF COMPLAINT.",
+            "answer": "WHAT IS AN UNSIGNED COMPLAINT?"
+          },
+          {
+            "value": 400,
+            "question": "THIS ARTICLE SAYS THAT WHEN A TEMPORARY RELIEF IS REQUIRED DUE TO ILLNESS, VACATION, LEAVE OF ABSENCE, ETC., THE EMPLOYER SHALL GIVE REGULAR EMPLOYEES THE OPPORTUNITY TO RELIVE IN HIGHER PAYING POSITIONS.",
+            "answer": "WHAT IS ARTICLE 6?"
+          },
+          {
+            "value": 500,
+            "question": "THE LAST MEMORANDUM OF UNDERSTANDING IN THE 19TH COMPONENT AGREEMENT, SAYS THIS PREMIUM DOES NOT APPLY TO REGULAR EMPLOYEES WHO ACCEPT A SHIFT ON A PAID HOLIDAY.",
+            "answer": "WHAT IS SHORT SHIFT CHANGEOVER PREMIUM?"
+          }
+        ]
+      },
+      {
+        "name": "PAYROLL CODES",
+        "questions": [
+          {
+            "value": 100,
+            "question": "VAC",
+            "answer": "WHAT IS VACATION?"
+          },
+          {
+            "value": 200,
+            "question": "STN",
+            "answer": "WHAT IS SICK NO TOP UP?"
+          },
+          {
+            "value": 300,
+            "question": "PEN",
+            "answer": "WHAT IS PENSION?"
+          },
+          {
+            "value": 400,
+            "question": "JUR",
+            "answer": "WHAT IS JURY DUTY?"
+          },
+          {
+            "value": 500,
+            "question": "M<2",
+            "answer": "WHAT IS MEDICAL LEAVE OF 2 HOURS OR LESS?"
+          }
+        ]
+      },
+      {
+        "name": "RECALL SCHOOL",
+        "questions": [
+          {
+            "value": 100,
+            "question": "DURING THE SCHEDULED TIME PERIODS, TWO ATTEMPTS WITH THIS AMOUNT OF TIME APART WILL BE MADE TO CONTACT THE AUXILIARY.",
+            "answer": "WHAT IS 5 MINUTES APART?"
+          },
+          {
+            "value": 200,
+            "question": "ON MIDNIGHT ON THESE TWO DATES, ALL AUXILIARY DECLINES ARE REMOVED.",
+            "answer": "WHAT IS APRIL 1 AND OCOBER 1?"
+          },
+          {
+            "value": 300,
+            "question": "AUXILIARY EMPLOYEES WHO ARE UNAVAILABLE FOR WORK BECAUSE OF ILLNESS AND NOT INCUR A DECLINE, MUST DO THIS AT THE TIMES DESIGNATED BY THE EMPLOYER.",
+            "answer": "WHAT IS CALL INTO THEIR WORK UNIT?"
+          },
+          {
+            "value": 400,
+            "question": "WORKING THESE TWO DAYS AS AN AUXILIARY IS ONE WAY TO QUALIFY FOR COMPENSATION FOR A PAID HOLIDAY.",
+            "answer": "WHAT IS THE DAY BEFORE AND THE DAY AFTER A PAID HOLIDAY?"
+          },
+          {
+            "value": 500,
+            "question": "AN UNDER 1827 AUXILIARY IS ENTITLED TO THIS AMOUNT OF HOURS FOR LEAVE OF ABSENCE WITHOUT PAY IN A CALENDAR YEAR.",
+            "answer": "WHAT IS 105 HOURS?"
+          }
+        ]
+      },
+      {
+        "name": "SAM \"SAYINGS\"",
+        "questions": [
+          {
+            "value": 100,
+            "question": "\"A TATTELTALE IS SEWED UP.\"",
+            "answer": "WHAT IS \"SNITCHES GET STITCHES\"?"
+          },
+          {
+            "value": 200,
+            "question": "\"WEEPING AT A MISTAKEN MEMORIAL.\"",
+            "answer": "WHAT IS \"YOU ARE CRYING AT THE WRONG FUNERAL\"?"
+          },
+          {
+            "value": 300,
+            "question": "\"STATING ONE’S ACHIEVEMENTS DOES NOT CONSTITUTE AN ENDORSEMENT.\"",
+            "answer": "WHAT IS \"SELF PRAISE IS NO RECOMMENDATION\"?"
+          },
+          {
+            "value": 400,
+            "question": "\"ONE IS SLURPING BEYOND A DIGIT.\"",
+            "answer": "WHAT IS \"I SUCKED IT OUT OF MY THUMB\"?"
+          },
+          {
+            "value": 500,
+            "question": "\"AUDIBLE NOISE FROM THE SIMIAN POLES AROUND THE SANDBOX.\"",
+            "answer": "WHAT IS \"LEO…THAT SOUNDS LIKE SOMETHING I WOULD HEAR ON THE MONKEY BARS IN THE PLAYGROUND\"?"
+          }
+        ]
+      }
+    ]
+  }
