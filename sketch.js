@@ -9,6 +9,7 @@ let employeeX;   // x position for 'EMPLOYEE RELATIONS'
 let jeopardyX;    // x position for 'JEOPARDY'
 let targetX;     // target x position (center of canvas)
 let speed = 10;  // speed of movement
+let god = 'god'
 
 function preload(){
   // categorieData = loadJSON('gameData.json')
