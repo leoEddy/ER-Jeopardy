@@ -64,7 +64,7 @@ function draw() {
     textSize(70);
     
     // Move 'EMPLOYEE RELATIONS' from the left towards the center
-    if (millis() > 60000) {
+    if (millis() > 10000) {
       if(employeeX < targetX){
         employeeX += speed;
         if(employeeX > targetX) {
@@ -73,11 +73,13 @@ function draw() {
       }
     }
     
-    // Move 'JEOPARDY' from the right towards the center
-    if(jeopardyX > targetX){
-      jeopardyX -= speed;
-      if(jeopardyX < targetX) {
-        jeopardyX = targetX;
+    // Move 'JEOPARDY' from the right towards the center after a 60-second delay
+    if (millis() > 10000) {
+      if(jeopardyX > targetX){
+        jeopardyX -= speed;
+        if(jeopardyX < targetX) {
+          jeopardyX = targetX;
+        }
       }
     }
     
