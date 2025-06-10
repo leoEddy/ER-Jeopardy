@@ -10,8 +10,8 @@ class Category {
         rect(x, y, w, h)
         fill(255)
         if (!this.introEnd) {
-            text('EMPLOYEE', x+ w/2, y + h/2 -35)
-            text('RELATIONS', x+ w/2, y + h/2)
+            text('JAGDEEP', x+ w/2, y + h/2 -35)
+            //text('RELATIONS', x+ w/2, y + h/2)
             text('JEOPARDY!', x+ w/2, y + h/2 +35)
         }
         if (this.introEnd) {

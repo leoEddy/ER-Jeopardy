@@ -1,0 +1,154 @@
+{
+    "categories": [
+      {
+        "name": "JAGDEEP",
+        "questions": [
+          {
+            "value": 100,
+            "question": "JAGDEEP DRIVES THIS MODEL OF CAR",
+            "answer": "WHAT IS TESLA?"
+          },
+          {
+            "value": 200,
+            "question": "JAGDEEP LOVES THIS BEVERAGE.",
+            "answer": "WHAT IS CHAI TEA LATTE?"
+          },
+          {
+            "value": 300,
+            "question": "WHERE DID JAGDEEP MEET HER FIANCÉ?",
+            "answer": "WHAT IS INSTAGRAM?"
+          },
+          {
+            "value": 400,
+            "question": "JAGDEEP'S FAVOURITE EXPRESSION.",
+            "answer": "WHAT IS WOW?!"
+          },
+          {
+            "value": 500,
+            "question": "JAGDEEP DID A COMMERCIAL FOR A RESTAURANT THAT SERVES THIS TYPE OF FAST FOOD.",
+            "answer": "WHAT IS PIZZA?"
+          }
+        ]
+      },
+      {
+        "name": "INDIAN WEDDINGS",
+        "questions": [
+          {
+            "value": 100,
+            "question": "THIS COLOUR IS MOST COMMONLY WORN BY BRIDES IN TRADITIONAL INDIAN WEDDINGS.",
+            "answer": "WHAT IS RED?"
+          },
+          {
+            "value": 200,
+            "question": "THIS RITUAL INVOLVES APPLYING HENNA TO THE BRIDE’S HANDS AND FEET IN ELABORATE DESIGNS.",
+            "answer": "WHAT IS MEHNDI?"
+          },
+          {
+            "value": 300,
+            "question": "DURING A HINDU WEDDING, THE COUPLE WALKS AROUND A SACRED FIRE THIS MANY TIMES.",
+            "answer": "WHAT IS SEVEN?"
+          },
+          {
+            "value": 400,
+            "question": "AT MANY NORTH INDIAN WEDDINGS, THE BRIDE’S FAMILY STEALS THIS ITEM FROM THE GROOM.",
+            "answer": "WHAT ARE HIS SHOES?"
+          },
+          {
+            "value": 500,
+            "question": "IN A TRADITIONAL SIKH WEDDING, THE COUPLE WALKS AROUND THIS SACRED SCRIPTURE TO SIGNIFY THEIR MARRIAGE.",
+            "answer": "WHAT IS THE GURU GRANTH SAHIB?"
+          }
+        ]
+      },
+      {
+        "name": "OTHER WEDDINGS",
+        "questions": [
+          {
+            "value": 100,
+            "question": "IN SWEDEN, WHENEVER THE BRIDE OR GROOM LEAVES THE ROOM, GUESTS ARE ENCOURAGED TO DO THIS TO THE ONE LEFT BEHIND.",
+            "answer": "WHAT IS KISS THEM?"
+          },
+          {
+            "value": 200,
+            "question": "IN MAORI WEDDINGS IN NEW ZEALAND, COUPLES MAY SHARE THIS TYPE OF GREETING INVOLVING TOUCHING NOSES.",
+            "answer": "WHAT IS A HONGI?"
+          },
+          {
+            "value": 300,
+            "question": "IN TRADITIONAL JAPANESE SHINTO WEDDINGS, THIS RICE WINE IS SHARED BETWEEN THE COUPLE AS A SYMBOL OF UNITY.",
+            "answer": "WHAT IS SAKE?"
+          },
+          {
+            "value": 400,
+            "question": "IN MEXICAN WEDDINGS, THIS ITEM, IS PLACED AROUND THE COUPLE TO SYMBOLIZE UNITY.",
+            "answer": "WHAT IS THE WEDDING LASSO?"
+          },
+          {
+            "value": 500,
+            "question": "IN TRADITIONAL KOREAN WEDDINGS, BRIDES AND GROOMS MAY SHARE A DRINK FROM CUPS MADE FROM THIS NATURAL OBJECT.",
+            "answer": "WHAT IS A GOURD?"
+          }
+        ]
+      },
+      {
+        "name": "WEDDING MOVIES",
+        "questions": [
+          {
+            "value": 100,
+            "question": "THIS 2001 FILM ABOUT A GREEK WOMAN MARRYING A NON-GREEK MAN WAS A SURPRISE HIT.",
+            "answer": "WHAT IS \"MY BIG FAT GREEK WEDDING\"?"
+          },
+          {
+            "value": 200,
+            "question": "THIS FILM STARRING ANNE HATHAWAY AND KATE HUDSON FEATURES TWO FRIENDS WHOSE WEDDINGS ARE ACCIDENTALLY SCHEDULED ON THE SAME DAY.",
+            "answer": "WHAT IS 'BRIDE WARS'?"
+          },
+          {
+            "value": 300,
+            "question": "THIS 1991 FATHER-OF-THE-BRIDE REMAKE STARS STEVE MARTIN AS AN OVERWHELMED DAD NAVIGATING HIS DAUGHTER’S WEDDING PLANS.",
+            "answer": "WHAT IS 'FATHER OF THE BRIDE'?"
+          },
+          {
+            "value": 400,
+            "question": "THIS 2005 FILM STARRING OWEN WILSON AND VINCE VAUGHN CENTRES ON MEN WHO ATTEND STRANGERS’ WEDDINGS FOR FUN.",
+            "answer": "WHAT IS \"WEDDING CRASHERS\"?"
+          },
+          {
+            "value": 500,
+            "question": "THIS 2011 FILM FOLLOWS A BRIDE AND HER MAID OF HONOUR THROUGH A SERIES OF COMEDIC DISASTERS.",
+            "answer": "WHAT IS \"BRIDESMAIDS\"?"
+          }
+        ]
+      },
+      {
+        "name": "WEDDING SONGS",
+        "questions": [
+          {
+            "value": 100,
+            "question": "THIS POPULAR ED SHEERAN SONG IS A TOP CHOICE FOR FIRST DANCES, THANKS TO LYRICS LIKE 'I FOUND A LOVE FOR ME'.",
+            "answer": "WHAT IS 'PERFECT'?"
+          },
+          {
+            "value": 200,
+            "question": "ELVIS PRESLEY’S CLASSIC THAT STARTS WITH 'WISE MEN SAY, ONLY FOOLS RUSH IN'.",
+            "answer": "WHAT IS 'CAN’T HELP FALLING IN LOVE'?"
+          },
+          {
+            "value": 300,
+            "question": "THIS WHITNEY HOUSTON BALLAD FROM 'THE BODYGUARD' SOUNDTRACK IS A WEDDING POWERHOUSE.",
+            "answer": "WHAT IS 'I WILL ALWAYS LOVE YOU'?"
+          },
+          {
+            "value": 400,
+            "question": "THIS 1964 SONG BY THE DIXIE CUPS STARTS WITH THE LINE, 'GOIN’ TO THE CHAPEL AND WE’RE GONNA GET MARRIED.'",
+            "answer": "WHAT IS 'CHAPEL OF LOVE'?"
+          },
+          {
+            "value": 500,
+            "question": "THIS 1983 ROCK SONG BY BILLY IDOL BECAME A WEDDING ANTHEM, DESPITE ITS EDGY LYRICS AND REBELLIOUS TONE.",
+            "answer": "WHAT IS 'WHITE WEDDING'?"
+          }
+        ]
+      }
+    ]
+  }

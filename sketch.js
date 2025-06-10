@@ -13,7 +13,7 @@ let speed = 10;  // speed of movement
 
 function preload(){
   // categorieData = loadJSON('gameData.json')
-  categorieData = loadJSON('gameData.json')
+  categorieData = loadJSON('weddingData.json')
 }
 
 function setup() {
@@ -64,7 +64,7 @@ function draw() {
     textSize(70);
     
     // Move 'EMPLOYEE RELATIONS' from the left towards the center
-    if (millis() > 10000) {
+    if (millis() > 1000) {
       if(employeeX < targetX){
         employeeX += speed;
         if(employeeX > targetX) {
@@ -74,7 +74,7 @@ function draw() {
     }
     
     // Move 'JEOPARDY' from the right towards the center after a 60-second delay
-    if (millis() > 10000) {
+    if (millis() > 1000) {
       if(jeopardyX > targetX){
         jeopardyX -= speed;
         if(jeopardyX < targetX) {
@@ -85,7 +85,7 @@ function draw() {
     
     // Draw the texts at their respective positions
     //text('EMPLOYEE RELATIONS', employeeX, height/2 - 50);
-    text('EMPLOYEE RELATIONS', employeeX, height/2 - 50)
+    text('JAGDEEP', employeeX, height/2 - 50)
     text('JEOPARDY', jeopardyX, height/2 + 50);
 
   }else if (game.state === 'board'){
